@@ -1,3 +1,5 @@
+# DNA Optimal Sequence Alignment Algorithm
+
 import numpy as np
 
 X = np.full((3, 4, 2), (0, 0))
